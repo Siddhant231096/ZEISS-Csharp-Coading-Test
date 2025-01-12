@@ -1,4 +1,4 @@
-# ZEISS-Csharp-Coading-Test
+# ProductAPI-Csharp
 
 - Used MySQL for the DB
 - 6 Digit Id is been configured in Migration File ZEISS-Csharp-Coading-Test/ProductApi/Migrations/20250112113747_InitialCreateProduct.cs
